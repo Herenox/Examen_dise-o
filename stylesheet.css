@@ -1,0 +1,27 @@
+h1{
+	text-align: center;
+}
+
+#navbar {
+	position: fixed;
+	top:10px;
+	left:50%;
+	margin-left:-254px;
+}
+
+#header {
+
+}
+
+ul{
+	position: relative;
+	text-align: center;
+}
+
+li {
+	display: inline;
+	font-family: Futura, Tahoma, sans-serif;
+	color: #ffffff;
+	padding: auto;
+	background-color: grey;
+}
